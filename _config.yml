@@ -78,7 +78,7 @@ kramdown:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Less is More"
+#sidebar-about-description: "Less is More"
 sidebar-avatar: /blog/img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
