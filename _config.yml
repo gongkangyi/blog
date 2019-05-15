@@ -1,7 +1,7 @@
 # Site settings
 title: Gong's Blog
 SEOTitle: Gong's Blog
-header-img: img/bg.jpg
+header-img: img/computer.jpg
 email: gongkangyi@foxmail.com
 description: "Gong | Xidian"
 keyword: "Gong, Gong's Blog, 博客,"
@@ -10,15 +10,6 @@ keyword: "Gong, Gong's Blog, 博客,"
 
 # Publish posts or collection documents with a future date.
 future: true
-
-# SNS settings
-#RSS: false
-#weibo_username:     Gongpro
-#zhihu_username:     Gongpro
-#github_username:    Gongpro
-#twitter_username:   Gongpro
-#facebook_username:  Gongpro
-#linkedin_username:  firstname-lastname-idxxxx
 
 
 
@@ -58,24 +49,6 @@ kramdown:
 
 
 
-# Disqus settings
-# disqus_username: Gong
-
-# Netease settings
-#netease_comment: false
-
-
-
-# Analytics settings
-# Baidu Analytics 
-# ba_track_id: [your track id]
-
-# Google Analytics
-#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-#ga_domain: huangxuan.me
-
-
-
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 #sidebar-about-description: "Less is More"
@@ -103,6 +76,9 @@ page-mathjax: false
 # Friends
 friends: [
     {
+        title: "Gong's Blog",
+        href: "https://gongkangyi.github.io/blog/"
+    },{
         title: "阮一峰的网络日志",
         href: "http://www.ruanyifeng.com/blog/"
     },{
