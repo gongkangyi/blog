@@ -76,14 +76,20 @@ page-mathjax: false
 # Friends
 friends: [
     {
-        title: "Gong's Blog",
-        href: "https://gongkangyi.github.io/blog/"
+        title: "Gong",
+        href: "https://gongkangyi.github.io"
     },{
-        title: "阮一峰的网络日志",
-        href: "http://www.ruanyifeng.com/blog/"
+        title: "Blog",
+        href: "https://gongkangyi.github.io/blog"
+    },{
+        title: "Projects",
+        href: "https://gongkangyi.github.io/projects"
     },{
         title: "Mind Hacks",
         href: "http://mindhacks.cn/"
+    },{
+        title: "阮一峰的网络日志",
+        href: "http://www.ruanyifeng.com/blog/"
     },{
         title: "V2EX",
         href: "https://pagespeed.v2ex.com/?tab=hot"
