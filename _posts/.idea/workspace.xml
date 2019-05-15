@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c88846c-9402-4e3e-a68c-c09c76b1806e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_includes/friends.html" beforeDir="false" afterPath="$PROJECT_DIR$/../_includes/friends.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019-5-15-160_相交链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/2019-5-15-160_相交链表.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,20 +21,8 @@
         <entry file="file://$PROJECT_DIR$/2019-5-15-160_相交链表.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="111">
-                <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019-5-14-155_最小栈.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret selection-end-line="10" selection-end-column="3" />
+              <first_editor relative-caret-position="185">
+                <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               </first_editor>
               <second_editor />
             </state>
@@ -112,12 +100,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557881291115</updated>
-      <workItem from="1557881292487" duration="683000" />
+      <workItem from="1557881292487" duration="926000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="683000" />
+    <option name="totallyTimeSpent" value="926000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -170,8 +158,8 @@
     <entry file="file://$PROJECT_DIR$/2019-5-15-160_相交链表.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="111">
-            <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <first_editor relative-caret-position="185">
+            <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           </first_editor>
           <second_editor />
         </state>
