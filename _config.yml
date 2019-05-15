@@ -1,10 +1,10 @@
 # Site settings
-title: Gong Blog
-SEOTitle: Gong Blog
+title: Gong's Blog
+SEOTitle: Gong's Blog
 header-img: img/bg.jpg
 email: gongkangyi@foxmail.com
 description: "Gong | Xidian"
-keyword: "Gong, Gong Blog, 博客,"
+keyword: "Gong, Gong's Blog, 博客,"
 #url: "https://gongkangyi.github.io"              # your host, for absolute URL
 #baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -106,6 +106,9 @@ friends: [
         title: "阮一峰的网络日志",
         href: "http://www.ruanyifeng.com/blog/"
     },{
+        title: "Mind Hacks",
+        href: "http://mindhacks.cn/"
+    },{
         title: "V2EX",
         href: "https://pagespeed.v2ex.com/?tab=hot"
     },{
@@ -114,8 +117,5 @@ friends: [
     },{
         title: "开发者头条",
         href: "https://toutiao.io/posts/hot/7"
-    },{
-        title: "Mind Hacks",
-        href: "http://mindhacks.cn/"
     }
 ]
